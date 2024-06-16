@@ -13,9 +13,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1,VIUTV
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922064509828566.png" ,CCTV-5体育高清
+#EXTINF:-1 ,CCTV-5体育高清
 http://192.168.6.1:8686/rtp/239.10.0.102:1025
-#EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000153.png" ,CCTV5+体育高清
+#EXTINF:-1 ,CCTV5+体育高清
 http://192.168.6.1:8686/rtp/239.10.0.213:1025
 #EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315482874388048.png" ,广东卫视高清
 http://192.168.6.1:8686/rtp/239.10.0.111:1025
